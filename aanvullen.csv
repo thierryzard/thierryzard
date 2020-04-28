@@ -1,81 +1,81 @@
 Datum,Provincienaam,Aantal 
-2020-02-27,Noord-Holland,0
-2020-02-27,Zuid-Holland,0
-2020-02-28,Zuid-Holland,0
-2020-02-27,Drenthe ,0
-2020-02-28,Drenthe ,0
-2020-02-29,Drenthe ,0
-2020-02-27,Utrecht ,0
-2020-02-28,Utrecht ,0
-2020-02-29,Utrecht ,0
-2020-03-01,Utrecht ,0
-2020-03-02,Utrecht ,0
-2020-02-27,Gelderland,0
-2020-02-28,Gelderland,0
-2020-02-29,Gelderland,0
-2020-03-01,Gelderland,0
-2020-03-02,Gelderland,0
-2020-03-03,Gelderland,0
-2020-02-27,Flevoland,0
-2020-02-28,Flevoland,0
-2020-02-29,Flevoland,0
-2020-03-01,Flevoland,0
-2020-03-02,Flevoland,0
-2020-03-03,Flevoland,0
-2020-03-04,Flevoland,0
-2020-02-27,Limburg,0
-2020-02-28,Limburg,0
-2020-02-29,Limburg,0
-2020-03-01,Limburg,0
-2020-03-02,Limburg,0
-2020-03-03,Limburg,0
-2020-03-04,Limburg,0
-2020-02-27,Overijssel,0
-2020-02-28,Overijssel,0
-2020-02-29,Overijssel,0
-2020-03-01,Overijssel,0
-2020-03-02,Overijssel,0
-2020-03-03,Overijssel,0
-2020-03-04,Overijssel,0
-2020-02-27,Zeeland ,0
-2020-02-28,Zeeland ,0
-2020-02-29,Zeeland ,0
-2020-03-01,Zeeland ,0
-2020-03-02,Zeeland ,0
-2020-03-03,Zeeland ,0
-2020-03-04,Zeeland ,0
-2020-03-05,Zeeland ,0
-2020-03-06,Zeeland ,0
-2020-02-27,Friesland ,0
-2020-02-28,Friesland ,0
-2020-02-29,Friesland ,0
-2020-03-01,Friesland ,0
-2020-03-02,Friesland ,0
-2020-03-03,Friesland ,0
-2020-03-04,Friesland ,0
-2020-03-05,Friesland ,0
-2020-03-06,Friesland ,0
-2020-03-07,Friesland ,0
-2020-03-08,Friesland ,0
-2020-03-09,Friesland ,0
-2020-02-27,Groningen,0
-2020-02-28,Groningen,0
-2020-02-29,Groningen,0
-2020-03-01,Groningen,0
-2020-03-02,Groningen,0
-2020-03-03,Groningen,0
-2020-03-04,Groningen,0
-2020-03-05,Groningen,0
-2020-03-06,Groningen,0
-2020-03-07,Groningen,0
-2020-03-08,Groningen,0
-2020-03-09,Groningen,0
-2020-03-10,Groningen,0
-2020-03-11,Groningen,0
-2020-03-12,Groningen,0
-2020-03-13,Groningen,0
-2020-03-14,Groningen,0
-2020-03-15,Groningen,0
-2020-03-16,Groningen,0
-2020-03-17,Groningen,0
-2020-03-18,Groningen,0
+27/02/2020,Noord-Holland,0.0
+27/02/2020,Zuid-Holland,0.0
+28/02/2020,Zuid-Holland,0.0
+27/02/2020,Drenthe ,0.0
+28/02/2020,Drenthe ,0.0
+29/02/2020,Drenthe ,0.0
+27/02/2020,Utrecht ,0.0
+28/02/2020,Utrecht ,0.0
+29/02/2020,Utrecht ,0.0
+01/03/2020,Utrecht ,0.0
+02/03/2020,Utrecht ,0.0
+27/02/2020,Gelderland,0.0
+28/02/2020,Gelderland,0.0
+29/02/2020,Gelderland,0.0
+01/03/2020,Gelderland,0.0
+02/03/2020,Gelderland,0.0
+03/03/2020,Gelderland,0.0
+27/02/2020,Flevoland,0.0
+28/02/2020,Flevoland,0.0
+29/02/2020,Flevoland,0.0
+01/03/2020,Flevoland,0.0
+02/03/2020,Flevoland,0.0
+03/03/2020,Flevoland,0.0
+04/03/2020,Flevoland,0.0
+27/02/2020,Limburg,0.0
+28/02/2020,Limburg,0.0
+29/02/2020,Limburg,0.0
+01/03/2020,Limburg,0.0
+02/03/2020,Limburg,0.0
+03/03/2020,Limburg,0.0
+04/03/2020,Limburg,0.0
+27/02/2020,Overijssel,0.0
+28/02/2020,Overijssel,0.0
+29/02/2020,Overijssel,0.0
+01/03/2020,Overijssel,0.0
+02/03/2020,Overijssel,0.0
+03/03/2020,Overijssel,0.0
+04/03/2020,Overijssel,0.0
+27/02/2020,Zeeland ,0.0
+28/02/2020,Zeeland ,0.0
+29/02/2020,Zeeland ,0.0
+01/03/2020,Zeeland ,0.0
+02/03/2020,Zeeland ,0.0
+03/03/2020,Zeeland ,0.0
+04/03/2020,Zeeland ,0.0
+05/03/2020,Zeeland ,0.0
+06/03/2020,Zeeland ,0.0
+27/02/2020,Friesland ,0.0
+28/02/2020,Friesland ,0.0
+29/02/2020,Friesland ,0.0
+01/03/2020,Friesland ,0.0
+02/03/2020,Friesland ,0.0
+03/03/2020,Friesland ,0.0
+04/03/2020,Friesland ,0.0
+05/03/2020,Friesland ,0.0
+06/03/2020,Friesland ,0.0
+07/03/2020,Friesland ,0.0
+08/03/2020,Friesland ,0.0
+09/03/2020,Friesland ,0.0
+27/02/2020,Groningen,0.0
+28/02/2020,Groningen,0.0
+29/02/2020,Groningen,0.0
+01/03/2020,Groningen,0.0
+02/03/2020,Groningen,0.0
+03/03/2020,Groningen,0.0
+04/03/2020,Groningen,0.0
+05/03/2020,Groningen,0.0
+06/03/2020,Groningen,0.0
+07/03/2020,Groningen,0.0
+08/03/2020,Groningen,0.0
+09/03/2020,Groningen,0.0
+10/03/2020,Groningen,0.0
+11/03/2020,Groningen,0.0
+12/03/2020,Groningen,0.0
+13/03/2020,Groningen,0.0
+14/03/2020,Groningen,0.0
+15/03/2020,Groningen,0.0
+16/03/2020,Groningen,0.0
+17/03/2020,Groningen,0.0
+18/03/2020,Groningen,0.0
